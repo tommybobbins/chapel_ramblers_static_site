@@ -1,6 +1,6 @@
 # Chapel Ramblers Website
 
-Terraform for hosting a secure static website hosted on AWS using S3. This is based around the following project:
+Terraform for hosting a secure static website hosted on AWS using S3. Website is https://chapelramblers.org This is based around the following project:
 [step by step guide](https://www.alexhyett.com/terraform-s3-static-website-hosting) for this code on Alex Hyett's [blog](https://www.alexhyett.com/terraform-s3-static-website-hosting).
 
 The terraform will set up the following components:
